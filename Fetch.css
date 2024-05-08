@@ -1,0 +1,30 @@
+.content{
+    justify-items: center;
+}
+
+
+
+
+.title{
+    color: green;
+    background-color: blue;
+    width: 700px;
+}
+.table{
+    border: 2px solid red;
+    margin-top: 150px;
+    margin-left: 250px;
+    justify-content: center;
+    
+}
+.table thead tr th{
+    background-color: blueviolet;
+    color: aqua;
+    
+}
+.table tbody td{
+    padding: 10px 10px;
+}
+.button{
+    padding-left: 500px;
+}
